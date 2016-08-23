@@ -1,3 +1,8 @@
+# IoT Hydrator
+The hydrator project is our attempt to understand a number of technologies GE Digital is using while
+having alot of fun. 
+
+
 # Angular 2 QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
